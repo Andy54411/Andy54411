@@ -69,7 +69,15 @@ Beyond development, I build AI-powered tools. **Taskilo KI** is my multi-agent s
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🏢 [The Freelancer Marketing](https://the-freelancer-marketing.de)
+<a href="https://the-freelancer-marketing.de">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Original%20Logo.svg">
+  <img src="./assets/Transparent%20Logo.svg" height="40" alt="The Freelancer Marketing"/>
+</picture>
+</a>
+
+**[The Freelancer Marketing](https://the-freelancer-marketing.de)**
+
 Digital agency — full-stack web apps, mobile apps & AI tools. 5+ years, 50+ projects delivered.
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
@@ -80,8 +88,8 @@ Digital agency — full-stack web apps, mobile apps & AI tools. 5+ years, 50+ pr
 
 <a href="https://taskilo.de">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/Taskilo%20Logo%20White.svg">
-  <img src="./assets/Transparent%20Logo.svg" height="40" alt="Taskilo Platform"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/taskilo-logo-white.png">
+  <img src="./assets/taskilo-logo-transparent.png" height="40" alt="Taskilo Platform"/>
 </picture>
 </a>
 
@@ -99,8 +107,8 @@ Enterprise SaaS — invoicing, projects, marketplace & CRM. Built with Next.js 1
 
 <a href="https://ki.taskilo.de">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/Taskilo%20Logo%20White.svg">
-  <img src="./assets/Transparent%20Logo.svg" height="40" alt="Taskilo KI"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/taskilo-logo-white.png">
+  <img src="./assets/taskilo-logo-transparent.png" height="40" alt="Taskilo KI"/>
 </picture>
 </a>
 
