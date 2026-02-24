@@ -71,7 +71,7 @@ Beyond development, I build AI-powered tools. **Taskilo KI** is my multi-agent s
 
 <a href="https://the-freelancer-marketing.de">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/Original%20Logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/TFM%20Logo%20White.svg">
   <img src="./assets/Transparent%20Logo.svg" height="40" alt="The Freelancer Marketing"/>
 </picture>
 </a>
