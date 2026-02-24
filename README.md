@@ -460,17 +460,72 @@ Enterprise SaaS — invoicing, projects, marketplace & CRM. Built with Next.js 1
 
 ---
 
-## 📊 GitHub Activity
+## � Currently Building
+
+> Active development in **[@The-Freelancer-Marketing-Ltd](https://github.com/The-Freelancer-Marketing-Ltd)**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[taskilo-platform](https://github.com/The-Freelancer-Marketing-Ltd/taskilo-platform)** `TypeScript`
+
+Taskilo SaaS Platform — Monorepo (FastAPI + Next.js + PostgreSQL)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[taskilo-services](https://github.com/The-Freelancer-Marketing-Ltd/taskilo-services)** `Python`
+
+Taskilo Backend Services — Monorepo (KI + Webmail + MongoDB)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[taskilo-mobile-apps](https://github.com/The-Freelancer-Marketing-Ltd/taskilo-mobile-apps)** `Dart`
+
+Taskilo Mobile Apps — Monorepo (Flutter: Tasko + Webmail)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[taskilo-webmail](https://github.com/The-Freelancer-Marketing-Ltd/taskilo-webmail)** `TypeScript`
+
+Taskilo Webmail — IMAP/SMTP Proxy Backend + Next.js Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## �📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Andy54411&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=009688&icon_color=009688&text_color=c9d1d9&ring_color=009688" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andy54411&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy54411&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=009688&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andy54411&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy54411&theme=github-dark-blue&hide_border=true&background=0d1117&ring=009688&fire=009688&currStreakLabel=009688&sideLabels=009688&sideNums=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=Andy54411&theme=github-dark-blue&hide_border=true&background=0d1117&ring=009688&fire=009688&currStreakLabel=009688&sideLabels=009688&sideNums=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
