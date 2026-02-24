@@ -78,7 +78,10 @@ Digital agency — full-stack web apps, mobile apps & AI tools. 5+ years, 50+ pr
 </td>
 <td width="33%" valign="top" align="center">
 
-### ⚡ [Taskilo Platform](https://taskilo.de)
+<a href="https://taskilo.de"><img src="./assets/taskilo-logo-transparent.png" height="40" alt="Taskilo Platform"/></a>
+
+**[Taskilo Platform](https://taskilo.de)**
+
 Enterprise SaaS — invoicing, projects, marketplace & CRM. Built with Next.js 15, FastAPI & Flutter.
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
@@ -89,7 +92,10 @@ Enterprise SaaS — invoicing, projects, marketplace & CRM. Built with Next.js 1
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🤖 [Taskilo KI](https://ki.taskilo.de)
+<a href="https://ki.taskilo.de"><img src="./assets/taskilo-logo-transparent.png" height="40" alt="Taskilo KI"/></a>
+
+**[Taskilo KI](https://ki.taskilo.de)**
+
 19 specialized AI agents for business & finance — tax optimization, risk management, strategic planning.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
