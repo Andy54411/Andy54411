@@ -78,7 +78,12 @@ Digital agency — full-stack web apps, mobile apps & AI tools. 5+ years, 50+ pr
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://taskilo.de"><img src="./assets/taskilo-logo-transparent.png" height="40" alt="Taskilo Platform"/></a>
+<a href="https://taskilo.de">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Taskilo Logo White.svg">
+  <img src="./assets/Transparent Logo.svg" height="40" alt="Taskilo Platform"/>
+</picture>
+</a>
 
 **[Taskilo Platform](https://taskilo.de)**
 
@@ -92,7 +97,12 @@ Enterprise SaaS — invoicing, projects, marketplace & CRM. Built with Next.js 1
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://ki.taskilo.de"><img src="./assets/taskilo-logo-transparent.png" height="40" alt="Taskilo KI"/></a>
+<a href="https://ki.taskilo.de">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Taskilo Logo White.svg">
+  <img src="./assets/Transparent Logo.svg" height="40" alt="Taskilo KI"/>
+</picture>
+</a>
 
 **[Taskilo KI](https://ki.taskilo.de)**
 
